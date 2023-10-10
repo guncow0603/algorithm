@@ -7,5 +7,5 @@ public class Solution11 {
             answer+=my_string.substring(i,i+1);
         }
         return answer;
-    }ㅎ
+    }
 }
