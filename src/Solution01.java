@@ -5,5 +5,6 @@ class Solution01 {
             answer[i]=numbers[i]*2;
         }
         return answer;
+
     }
 }
