@@ -35,4 +35,3 @@ class Solution128 {
         return answer;
     }
 }
-출처: https://ittrue.tistory.com/459 [IT is True:티스토리]
